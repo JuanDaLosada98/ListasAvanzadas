@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     private ListView lv_noticias;
     NoticiaAdapter customAdapter;
 
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
