@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/item_noticia"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:text="Titulo"
+        />
+
+    <TextView
+        android:id="@+id/item_fecha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="12/26/2017"
+        android:gravity="right"
+        android:textStyle="bold"
+
+        />
+
+    <TextView
+        android:id="@+id/item_descripcion"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="suhshkshshuhssh sihsih shishihasoodo soisiwiwo ssbdghc xbkjzxnksaisushud dhisdhid dihdids hidhid"
+
+
+        />
+</LinearLayout>
