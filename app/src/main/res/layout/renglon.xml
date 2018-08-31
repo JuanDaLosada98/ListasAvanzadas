@@ -29,9 +29,14 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="suhshkshshuhssh sihsih shishihasoodo soisiwiwo ssbdghc xbkjzxnksaisushud dhisdhid dihdids hidhid"
+        />
 
-
-
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="llamar"
+        android:id="@+id/item_llamar"
 
         />
+
 </LinearLayout>
